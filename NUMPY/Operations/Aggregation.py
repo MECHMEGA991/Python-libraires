@@ -21,7 +21,7 @@ arr=np.array([
 ])
 
 # axis = 0  means vertical
-# axis =   means horizontal
+# axis = 1  means horizontal
 
 print(np.sum(arr,axis=0))
 print(np.sum(arr,axis=1))
@@ -35,5 +35,5 @@ arr = np.array([
 ])
 
 print(np.sum(arr,axis=0))
-print(np.sum(arr,axis=1))
-print(np.sum(arr,axis=2))
+print(np.sum(arr,axis=1)) # Vertical
+print(np.sum(arr,axis=2)) # horizontal
