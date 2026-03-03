@@ -1,5 +1,6 @@
 # for slicing an array we pass 
 # start stop step
+# Slicing do view window into original
 
 import numpy as np
 

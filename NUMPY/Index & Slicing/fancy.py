@@ -1,5 +1,7 @@
 import numpy as np
 
+# fancy makes a copy of original array
+
 arr1=np.array([10,20,30,40])
 
 print(arr1[[0,2,3]])
