@@ -1,0 +1,25 @@
+
+Matplotlib is one of the mostly widely used data visualization libraries in python.
+It allows you to create a wide variety of graphs, charts and plots to visually represent data
+
+With Matplotlib you can create:
+
+Line plots
+Bar charts
+Scatter plots
+Histograms
+Pie charts
+Box plots
+Heatmaps
+
+# With code
+
+1> Matplotlib, Seaborn, Plotly
+2> Very high flexibility(can customize every element)
+3> Can integrate into apps, ML pipelines
+
+# With Tools 
+
+1> Power BI, Tabaleau, Google data Studio
+2> Limited to what the tool allows
+3> Very tough to integrate into app, ML pipelines
